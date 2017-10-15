@@ -1,3 +1,8 @@
+import React from 'react'
+import { View } from 'react-native'
+import { FontAwesome, MatrialIcons, MaterialCommunityIcons } from '@expo/vector-icons'
+import { white } from './colors'
+
 export function getMetricMetaInfo (metric) {
   const info = {
     run: {
@@ -26,10 +31,10 @@ export function getMetricMetaInfo (metric) {
       type: 'steppers',
       getIcon() {
         return (
-          <View style={[styles.iconContainer, {backgroundColor: orange}]}>
+          <View>
             <MaterialCommunityIcons
               name='bike'
-              color={white}
+              color={"black"}
               size={32}
             />
           </View>
@@ -138,3 +143,5 @@ export function timeToString (time = Date.now()) {
   const todayUTC = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()))
   return todayUTC.toISOString().split('T')[0]
 }
+
+
