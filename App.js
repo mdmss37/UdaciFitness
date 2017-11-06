@@ -1,11 +1,8 @@
 import React from 'react'
-import { View } from 'react-native'
+import { StyleSheet, Text, View, Slider } from 'react-native'
 import AddEntry from './components/AddEntry'
 
 export default class App extends React.Component {
-  handlePress = () => {
-    alert("hello")
-  }
   render() {
     return (
       <View>
@@ -14,3 +11,13 @@ export default class App extends React.Component {
     );
   }
 }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     marginLeft: 10,
+//     marginRight: 10,
+//     alignItems: "stretch",
+//     justifyContent: "center",
+//   }
+// })
