@@ -100,9 +100,7 @@ class AddEntry extends Component {
             size={100}
           />
           <Text>You already logged your information for today</Text>
-          <TextButton style={{padding: 10}} onPress={this.reset}>
-            Reset
-          </TextButton>
+          <TextButton style={{padding: 10}} onPress={this.reset} children="Reset"/>
         </View>
       )
     }
