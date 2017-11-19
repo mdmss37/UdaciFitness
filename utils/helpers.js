@@ -15,8 +15,6 @@ const styles = StyleSheet.create({
   }
 })
 
-
-
 export function getMetricMetaInfo (metric) {
   const info = {
     run: {
