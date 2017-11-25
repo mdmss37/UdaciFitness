@@ -12,6 +12,7 @@ import { Constants } from 'expo'
 import EntryDetail from './components/EntryDetail'
 import Live from './components/Live'
 import devToolsEnhancer from 'remote-redux-devtools'
+import { setLocalNotification } from './utils/helpers'
 
 const UdaciStatusBar = ({ backgroundColor, ...props}) => (
     <View style={{ backgroundColor, height: Constants.statusBarHeight }}>
@@ -82,6 +83,10 @@ const store = createStore(
   )
 
 export default class App extends React.Component {
+  componentDidMount() {
+    setLocalNotification()
+  }
+
   render() {
     return (
       <Provider store={store}>

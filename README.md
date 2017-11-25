@@ -1,6 +1,38 @@
 
 + https://docs.expo.io/versions/latest/sdk/constants.html
 + https://github.com/expo/expo/issues/71
++ https://github.com/zo0r/react-native-push-notification/issues/195
++ https://github.com/expo/expo/issues/516
++ https://github.com/expo/expo/issues/185
+https://classroom.udacity.com/nanodegrees/nd019/parts/580105de-1f39-4975-866d-4f430f1aef1d/modules/be422d8e-8927-496d-b203-1868289e90c5/lessons/8b4d3cba-8e1b-4a7b-9065-dacce0b095e5/concepts/ae96e81c-9da6-4f61-8a61-3754361e1afa
+https://github.com/udacity/reactnd-UdaciFitness-complete/commit/63778456f674355e40044c673f4b966ebd446866
+https://github.com/udacity/reactnd-UdaciFitness-complete/blob/setLocalNotification/utils/helpers.js
+https://github.com/udacity/reactnd-UdaciFitness-complete/commit/63778456f674355e40044c673f4b966ebd446866
+https://github.com/udacity/reactnd-UdaciFitness-complete/blob/setLocalNotification/utils/helpers.js
+https://github.com/udacity/reactnd-UdaciFitness-complete/commit/0b092b57b530fd6b2d9e9577dd299351e74df75f
+https://github.com/udacity/reactnd-UdaciFitness-complete/blob/0b092b57b530fd6b2d9e9577dd299351e74df75f/components/Live.js
+https://classroom.udacity.com/nanodegrees/nd019/parts/580105de-1f39-4975-866d-4f430f1aef1d
+https://github.com/zalmoxisus/redux-devtools-extension#usage
+https://stackoverflow.com/questions/2233339/javascript-is-there-a-way-to-get-chrome-to-break-on-all-errors/17324511#17324511
+https://github.com/facebook/react-native/issues/15972
+https://github.com/facebook/react-native/issues/6390
+http://pythontutor.com/
+https://yarnpkg.com/en/docs/cli/upgrade
+https://yarnpkg.com/en/docs/cli/versions
+https://www.google.co.jp/search?ei=zH0WWpm1HsW70ATEvqnADQ&q=expo+permissions+always+denied&oq=expo+permissions+always+denied&gs_l=psy-ab.3...17472.18686.0.18851.7.7.0.0.0.0.139.600.4j2.6.0....0...1c.1.64.psy-ab..1.0.0....0.-4ogn7I0nGI
+https://github.com/expo/expo/issues/791
+https://github.com/expo/expo/issues/366
+https://github.com/expo/expo/issues/7
+https://forums.expo.io/t/location-is-not-working/1004
+https://docs.expo.io/versions/latest/sdk/permissions.html
+https://www.google.co.jp/search?ei=c7YYWvuDKYrI8wWHsIPIBg&q=expo+LocalNotification+ios+not+fire&oq=expo+LocalNotification+ios+not+fire&gs_l=psy-ab.3...673580.675226.0.676136.9.9.0.0.0.0.149.870.6j3.9.0....0...1c.1.64.psy-ab..0.2.182...33i21k1.0.LlH_VeE-bq0
+https://github.com/varungupta85
+https://forums.expo.io/t/not-receiving-local-scheduled-notifications-on-ios/1192/3
+https://snack.expo.io/SyChaK8Hb
+https://stackoverflow.com/questions/44713040/not-receiving-local-scheduled-notifications-on-ios
+https://docs.expo.io/versions/latest/sdk/notifications.html
+https://docs.expo.io/versions/latest/sdk/notifications.html#localnotification
+https://github.com/expo/expo/issues/185
 
 
 
